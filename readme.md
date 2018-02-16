@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Faster MySQL Data Fetch
 
 Simple library which is used to database fetch - faster than typing whole query all the time.
